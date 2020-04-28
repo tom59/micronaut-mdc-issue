@@ -1,0 +1,10 @@
+micronaut:
+  application:
+    name: micronaut-mdc-issue
+  server:
+    port: 8089
+endpoints:
+  all:
+    path: /management
+    sensitive: false
+noop-cache.enabled: true

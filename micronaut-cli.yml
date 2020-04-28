@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: mn.mdc.instrumenter
+---
+testFramework: junit
+sourceLanguage: java
